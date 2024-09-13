@@ -1,4 +1,4 @@
-# # SSAFIT PROJECT(Front) 회고록
+# SSAFIT PROJECT(Algorithm) 회고록
 **작성자 : 권희주**
 
 ## 목차
